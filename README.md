@@ -14,7 +14,7 @@
 name       : Tridev
 location   : Ayodhya, Uttar Pradesh, India
 role       : DevOps Engineer (Fresher)
-experience : 5 months hands-on project training
+experience : 6 months hands-on project training
 focus      : CI/CD Automation · Kubernetes · Cloud Infrastructure
 contact    : speedytridev8874@gmail.com
 ```
